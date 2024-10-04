@@ -3,8 +3,7 @@
 #### Scripts and notebooks for analysis and figure generation:
 
 - Spatial_traits
-  - prepare_traits.ipynb
-  - pearsons_Fig2_siFig.ipynb
+  - Fig2_and_SIFig.ipynb
   
 - GWAS_and_ExWAS
   - array_imputed_GWAS_3e-9.ipynb
