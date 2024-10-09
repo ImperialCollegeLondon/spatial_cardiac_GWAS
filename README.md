@@ -26,4 +26,4 @@
 
 ## Citation
 
-Lu C, McGurk KA, Inglese P, Bai W, Ware JS, O’Regan DP. Genetic regulation of cardiac structure and function. _medRxiv_. 2024
+Lu C, McGurk KA, Sean L Zheng, Antonio de Marvao, Inglese P, Bai W, Ware JS, O’Regan DP. Genetic regulation of cardiac structure and function. _medRxiv_ [2024.10.08.24315091](https://doi.org/10.1101/2024.10.08.24315091) (2024)
